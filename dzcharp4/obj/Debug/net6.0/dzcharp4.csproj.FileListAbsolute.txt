@@ -1,0 +1,15 @@
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.AssemblyInfoInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.AssemblyInfo.cs
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\bin\Debug\net6.0\dzcharp4.exe
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\bin\Debug\net6.0\dzcharp4.deps.json
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\bin\Debug\net6.0\dzcharp4.runtimeconfig.json
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\bin\Debug\net6.0\dzcharp4.dll
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\bin\Debug\net6.0\dzcharp4.pdb
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.dll
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\refint\dzcharp4.dll
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.pdb
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\dzcharp4.genruntimeconfig.cache
+C:\Users\serge\OneDrive\Рабочий стол\dzcharp4\dzcharp4\obj\Debug\net6.0\ref\dzcharp4.dll
